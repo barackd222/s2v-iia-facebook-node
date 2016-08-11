@@ -11,13 +11,17 @@ This access token then needs to be copied and pasted into config.js file before 
 
 Usage:
 1. Clone or Download zip file
+
 2. Install dependencies: npm install
+
 3. Copy the "Access Token" from developers.facebook.com > Tools and Support > Graph API Explorer - Then past it into config.js
-3. Run the code: node app
-4. From a browser run:
+
+4. Run the code: node app
+
+5. From a browser run:
 http://localhost:8081/postToFacebook/HelloCarlos
 
-5. Or from Postman or SOAPUI send the following message using POST:
+6. Or from Postman or SOAPUI send the following message using POST:
 
 http://localhost:8081/postToFacebook?mymessage=HelloCarlos
  
