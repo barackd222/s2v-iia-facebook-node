@@ -10,6 +10,7 @@ Limitations:
 This access token then needs to be copied and pasted into config.js file before running node server.js
 
 Usage:
+
 1. Clone or Download zip file
 
 2. Install dependencies: npm install
